@@ -39,4 +39,7 @@ retriever.py # RAGRetriever
 utils.py # loaders & helpers
 data/
 pdf/ # put your PDFs here
-text_files/ # sample .txt files
+text_files/ # sample .txt files 
+
+This project was inspired by Krish Naik Youtube Channel
+
